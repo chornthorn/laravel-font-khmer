@@ -13,7 +13,24 @@ Step 02: Open project folder and open cmd or terminal by typing:
    or you can typing : 
     
     composer install
+    
+Step 03: Now! please run command for generate new key on your project:
 
+    php artisan key:generate     
+
+The finally run command below to run the project:
+
+    php artisan serve 
+    
+or change run with change port if you want but now this example we run with port `9000`:
+
+    php artisan serve --port=9000
+  
+## Using
+
+Now please open browser if you following step above: 
+
+        http://localhost:9000/
     
 Modified by Chorn Thorn,
 Power by Laravel 
