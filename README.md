@@ -32,7 +32,7 @@ Now please open browser if you following step above:
 
         http://localhost:9000/
         
-If you want to embed images, this is how you do it:
+image Demo:
 
 ![Image of Yaktocat](https://github.com/chornthorn/laravel-font-khmer/blob/master/public/img/laravel-font-kh.jpg?raw=true)        
 Modified by Chorn Thorn,
